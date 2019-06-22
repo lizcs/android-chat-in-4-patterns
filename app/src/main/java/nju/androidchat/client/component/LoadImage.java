@@ -1,4 +1,4 @@
-package nju.androidchat.client.hw1;
+package nju.androidchat.client.component;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

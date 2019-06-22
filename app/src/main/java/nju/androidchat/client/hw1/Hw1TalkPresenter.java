@@ -7,6 +7,7 @@ import java.util.List;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import nju.androidchat.client.ClientMessage;
+import nju.androidchat.client.component.LoadImage;
 
 @AllArgsConstructor
 public class Hw1TalkPresenter implements Hw1Contract.Presenter {

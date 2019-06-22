@@ -40,7 +40,7 @@
             android:gravity="end|center_vertical"
             android:orientation="horizontal">
 
-            <nju.androidchat.client.hw1.MyImageView
+            <nju.androidchat.client.component.MyImageView
                 android:id="@+id/chat_item_content_img"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"

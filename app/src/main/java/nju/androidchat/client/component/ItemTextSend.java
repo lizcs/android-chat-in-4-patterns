@@ -12,7 +12,6 @@ import java.util.UUID;
 
 import lombok.Setter;
 import nju.androidchat.client.R;
-import nju.androidchat.client.hw1.MyImageView;
 
 public class ItemTextSend extends LinearLayout implements View.OnLongClickListener {
     @StyleableRes

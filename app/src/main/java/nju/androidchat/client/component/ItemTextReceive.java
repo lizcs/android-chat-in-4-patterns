@@ -1,10 +1,6 @@
 package nju.androidchat.client.component;
 
-import android.app.AlertDialog;
 import android.content.Context;
-import android.content.res.TypedArray;
-import android.util.AttributeSet;
-import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -13,7 +9,6 @@ import androidx.annotation.StyleableRes;
 import java.util.UUID;
 
 import nju.androidchat.client.R;
-import nju.androidchat.client.hw1.MyImageView;
 
 public class ItemTextReceive extends LinearLayout {
 
